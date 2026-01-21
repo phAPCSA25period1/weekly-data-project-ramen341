@@ -87,7 +87,7 @@ public class App {
         System.out.println("This program collects and analyzes your weekly data of sleep.");
         System.out.println("You will be prompted to enter the number of hours you sleep each day for a week");
         System.out.println("We take that data and analyze it in order to give you insights of your sleep");
-        System.out.println("Click any button to continute throughout the program!");
+        System.out.println("Click any enter to continute throughout the program!");
     }
 
     public static double[] createSleepData(Scanner input)

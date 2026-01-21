@@ -43,7 +43,7 @@ public class WeeklyData {
             if(sleep[i] < min)
                 min = sleep[i];
        }
-        return 0.0; 
+        return min; 
     }
 
 
